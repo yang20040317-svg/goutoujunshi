@@ -1,0 +1,7 @@
+{
+  "mcp_endpoint": "http://192.168.100.100:10392/mcp",
+  "api_base": "http://192.168.100.100:10392/api/chat",
+  "token": "REPLACE_WITH_YOUR_WUUUD_TOKEN",
+  "token_env": "WUUUD_TOKEN",
+  "_note": "复制本文件为 config.local.json 并填入真实 token；config.local.json 已被 .gitignore 忽略，切勿提交到任何公开仓库。也可用环境变量 WUUUD_TOKEN 提供 token，覆盖本文件。"
+}
